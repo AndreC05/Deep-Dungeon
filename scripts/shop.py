@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  1 21:29:03 2022
 
-@author: 100283438
+@author: Andre Carreira
 """
 from text_colour import *
 from player_character import *

@@ -2,7 +2,7 @@
 """
 Created on Mon Dec 12 17:02:56 2022
 
-@author: 100283438
+@author: Andre Carreira
 """
 from text_colour import *
 

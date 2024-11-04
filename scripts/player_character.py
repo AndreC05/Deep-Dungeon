@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 20 18:44:42 2022
 
-@author: 100283438
+@author: Andre Carreira
 """
 import time
 from items import *

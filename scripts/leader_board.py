@@ -2,7 +2,7 @@
 """
 Created on Thu Dec  1 16:12:53 2022
 
-@author: 100283438
+@author: Andre Carreira
 """
 from os.path import isfile, join
 import os.path

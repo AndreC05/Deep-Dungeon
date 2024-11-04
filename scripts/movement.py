@@ -2,7 +2,7 @@
 """
 Created on Sat Dec 10 13:25:43 2022
 
-@author: 100283438
+@author: Andre Carreira
 """
 import random
 from monsters import *

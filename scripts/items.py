@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 20 19:53:49 2022
 
-@author: 100283438
+@author: Andre Carreira
 """
 import time
 import os.path

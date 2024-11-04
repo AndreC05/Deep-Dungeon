@@ -2,7 +2,7 @@
 """
 Created on Sun Dec 11 19:51:11 2022
 
-@author: 100283438
+@author: Andre Carreira
 """
 import os.path
 from text_colour import *
