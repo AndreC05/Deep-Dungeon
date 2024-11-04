@@ -6,10 +6,10 @@
 - The player and the monsters are able to carry equipment to increase their attributes.
 
 - The attributes available to the players and monsters are:\
-  health (if it reaches 0 they die).
-  strength (how much damage they cause).
-  armour (how much damage they can block).
-  agility (provides a small change to dodge an attack) .
+  health (if it reaches 0 they die).\
+  strength (how much damage they cause).\
+  armour (how much damage they can block).\
+  agility (provides a small change to dodge an attack).\
 
 # Instructions
 
