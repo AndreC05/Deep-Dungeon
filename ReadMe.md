@@ -9,7 +9,7 @@
   health (if it reaches 0 they die).\
   strength (how much damage they cause).\
   armour (how much damage they can block).\
-  agility (provides a small change to dodge an attack).\
+  agility (provides a small change to dodge an attack).
 
 # Instructions
 
